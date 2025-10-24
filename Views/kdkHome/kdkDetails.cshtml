@@ -1,0 +1,42 @@
+﻿@model KhuatDangKhoa_231230812_de01.Models.KdkComputer
+
+@{
+    ViewData["Title"] = "kdkDetails";
+}
+
+<h1>kdkDetails</h1>
+
+<div>
+    <h4>KdkComputer</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.KdkComName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.KdkComName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.KdkComPrice)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.KdkComPrice)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.KdkComImage)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.KdkComImage)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.KdkComStatus)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.KdkComStatus)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.KdkComId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

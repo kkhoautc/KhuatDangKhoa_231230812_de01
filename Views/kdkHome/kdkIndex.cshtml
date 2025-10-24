@@ -1,0 +1,60 @@
+﻿@model IEnumerable<KhuatDangKhoa_231230812_de01.Models.KdkComputer>
+
+@{
+    ViewData["Title"] = "kdkIndex";
+}
+
+<h1>kdkIndex</h1>
+
+<p>
+    <a asp-action="kdkCreate">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.KdkComName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KdkComPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KdkComImage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KdkComStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.KdkComName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KdkComPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KdkComImage)
+            </td>
+            <td>
+                    @if (item.KdkComStatus==true)
+                    {
+                        <span>Còn Hàng</span>
+                    }
+                    else
+                    {
+                        <span>Hết Hàng</span>
+                    }
+                </td>
+            <td>
+                <a asp-action="kdkEdit" asp-route-id="@item.KdkComId">Edit</a> |
+                <a asp-action="kdkDetails" asp-route-id="@item.KdkComId">Details</a> |
+                <a asp-action="kdkDelete" asp-route-id="@item.KdkComId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

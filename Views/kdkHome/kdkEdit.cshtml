@@ -1,0 +1,46 @@
+﻿@model KhuatDangKhoa_231230812_de01.Models.KdkComputer
+
+@{
+    ViewData["Title"] = "kdkEdit";
+}
+
+<h1>kdkEdit</h1>
+
+<h4>KdkComputer</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="kdkEdit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="KdkComId" />
+            <div class="form-group">
+                <label asp-for="KdkComName" class="control-label"></label>
+                <input asp-for="KdkComName" class="form-control" />
+                <span asp-validation-for="KdkComName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KdkComPrice" class="control-label"></label>
+                <input asp-for="KdkComPrice" class="form-control" />
+                <span asp-validation-for="KdkComPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KdkComImage" class="control-label"></label>
+                <input asp-for="KdkComImage" class="form-control" />
+                <span asp-validation-for="KdkComImage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KdkComStatus" class="control-label"></label>
+                <input asp-for="KdkComStatus" class="form-control" />
+                <span asp-validation-for="KdkComStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

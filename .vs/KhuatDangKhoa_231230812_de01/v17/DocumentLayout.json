@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|c:\\users\\admin\\source\\repos\\khuatdangkhoa_231230812_de01\\views\\kdkhome\\kdkindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|solutionrelative:views\\kdkhome\\kdkindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|c:\\users\\admin\\source\\repos\\khuatdangkhoa_231230812_de01\\views\\shared\\_kdklayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|solutionrelative:views\\shared\\_kdklayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|c:\\users\\admin\\source\\repos\\khuatdangkhoa_231230812_de01\\views\\kdkhome\\kdkdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|solutionrelative:views\\kdkhome\\kdkdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|c:\\users\\admin\\source\\repos\\khuatdangkhoa_231230812_de01\\controllers\\kdkhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|solutionrelative:controllers\\kdkhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|c:\\users\\admin\\source\\repos\\khuatdangkhoa_231230812_de01\\views\\kdkhome\\kdkedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|solutionrelative:views\\kdkhome\\kdkedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|c:\\users\\admin\\source\\repos\\khuatdangkhoa_231230812_de01\\views\\kdkhome\\kdkdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|solutionrelative:views\\kdkhome\\kdkdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|c:\\users\\admin\\source\\repos\\khuatdangkhoa_231230812_de01\\data\\kdkapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|solutionrelative:data\\kdkapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|c:\\users\\admin\\source\\repos\\khuatdangkhoa_231230812_de01\\views\\kdkhome\\kdkcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|solutionrelative:views\\kdkhome\\kdkcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|c:\\users\\admin\\source\\repos\\khuatdangkhoa_231230812_de01\\models\\khuatdangkhoa231230812de01context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|solutionrelative:models\\khuatdangkhoa231230812de01context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|c:\\users\\admin\\source\\repos\\khuatdangkhoa_231230812_de01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|c:\\users\\admin\\source\\repos\\khuatdangkhoa_231230812_de01\\models\\kdkcomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|solutionrelative:models\\kdkcomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|c:\\users\\admin\\source\\repos\\khuatdangkhoa_231230812_de01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|c:\\users\\admin\\source\\repos\\khuatdangkhoa_231230812_de01\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|c:\\users\\admin\\source\\repos\\khuatdangkhoa_231230812_de01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|c:\\users\\admin\\source\\repos\\khuatdangkhoa_231230812_de01\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|c:\\users\\admin\\source\\repos\\khuatdangkhoa_231230812_de01\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|c:\\users\\admin\\source\\repos\\khuatdangkhoa_231230812_de01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|c:\\users\\admin\\source\\repos\\khuatdangkhoa_231230812_de01\\views\\kdkhome\\kdkcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D60666-502D-47E1-831B-98484EFA329B}|KhuatDangKhoa_231230812_de01.csproj|solutionrelative:views\\kdkhome\\kdkcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 705,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_kdkLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Views\\Shared\\_kdkLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_kdkLayout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Views\\Shared\\_kdkLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_kdkLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:36:04.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "kdkDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Views\\kdkHome\\kdkDelete.cshtml",
+              "RelativeDocumentMoniker": "Views\\kdkHome\\kdkDelete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Views\\kdkHome\\kdkDelete.cshtml",
+              "RelativeToolTip": "Views\\kdkHome\\kdkDelete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:32:39.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "kdkEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Views\\kdkHome\\kdkEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\kdkHome\\kdkEdit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Views\\kdkHome\\kdkEdit.cshtml",
+              "RelativeToolTip": "Views\\kdkHome\\kdkEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:31:58.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "kdkDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Views\\kdkHome\\kdkDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\kdkHome\\kdkDetails.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Views\\kdkHome\\kdkDetails.cshtml",
+              "RelativeToolTip": "Views\\kdkHome\\kdkDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:28:37.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KdkApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Data\\KdkApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\KdkApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Data\\KdkApplicationDBContext.cs",
+              "RelativeToolTip": "Data\\KdkApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:07:07.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kdkIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Views\\kdkHome\\kdkIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\kdkHome\\kdkIndex.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Views\\kdkHome\\kdkIndex.cshtml",
+              "RelativeToolTip": "Views\\kdkHome\\kdkIndex.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAIAwwDAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:05:24.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KdkComputer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Models\\KdkComputer.cs",
+              "RelativeDocumentMoniker": "Models\\KdkComputer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Models\\KdkComputer.cs",
+              "RelativeToolTip": "Models\\KdkComputer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:03:31.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KhuatDangKhoa231230812De01Context.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Models\\KhuatDangKhoa231230812De01Context.cs",
+              "RelativeDocumentMoniker": "Models\\KhuatDangKhoa231230812De01Context.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Models\\KhuatDangKhoa231230812De01Context.cs",
+              "RelativeToolTip": "Models\\KhuatDangKhoa231230812De01Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:03:24.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:59:15.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T00:58:17.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kdkHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Controllers\\kdkHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\kdkHomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Controllers\\kdkHomeController.cs",
+              "RelativeToolTip": "Controllers\\kdkHomeController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAqwDwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:52:35.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "kdkCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Views\\kdkHome\\kdkCreate.cshtml",
+              "RelativeDocumentMoniker": "Views\\kdkHome\\kdkCreate.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Views\\kdkHome\\kdkCreate.cshtml",
+              "RelativeToolTip": "Views\\kdkHome\\kdkCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:26:34.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T00:58:23.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:50:38.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T00:58:19.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KdkContact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Views\\kdkHome\\KdkContact.cshtml",
+              "RelativeDocumentMoniker": "Views\\kdkHome\\KdkContact.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Views\\kdkHome\\KdkContact.cshtml",
+              "RelativeToolTip": "Views\\kdkHome\\KdkContact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T00:56:55.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T00:58:28.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KhuatDangKhoa_231230812_de01\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T00:50:44.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
